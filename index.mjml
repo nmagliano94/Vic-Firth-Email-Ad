@@ -1,0 +1,96 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Quantico" href="https://fonts.googleapis.com/css2?family=Quantico" />
+    <mj-attributes>
+      <mj-text font-family="Quantico, sans-serif" align="center" line-height="35px" color="#ffffff" padding="0px" />
+      <mj-image padding="0px" />
+      <mj-button font-size="14px" font-family="Quantico, sans-serif" text-transform="uppercase" border-radius="0px" height="45px" width="200px" />
+      <mj-section padding="0px" background-color="#000000" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#f1f1f1">
+    <mj-raw>
+      <!-- Logo Section -->
+    </mj-raw>
+    <mj-section>
+      <mj-column>
+        <mj-image width="300px" padding="20px" href="https://www.vicfirth.com" src="https://i.postimg.cc/wv04K5SK/vicfirthlogo.png" alt="logo" />
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Big Image Section -->
+    </mj-raw>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/QCC4j93F/grain2.jpg" alt="go with the grain" />
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Introduction Section -->
+    </mj-raw>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="30px" color="red" padding="20px">
+          INTRODUCING<br>THE VIC FIRTH TERRA™ SERIES
+        </mj-text>
+        <mj-text font-size="18px" line-height="1.5" padding-top="0px" padding-left="20px" padding-right="20px" padding-bottom="25px">
+          Vic Firth's new series of drumsticks celebrates the natural beauty our earth gifts us in each drumstick we make. Using a proprietary staining process, the unique and beautiful grains are exposed so that no two pairs are alike. Crafted from premium USA Hickory, Vic Firth Terra™ series pays homage to the material drummers around the world rely on to make magic behind their kit.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Big Image 2 Section -->
+    </mj-raw>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/Y0PX0rrb/log.jpg" alt="go with the grain" />
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Discount Section -->
+    </mj-raw>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="30px" color="#ffffff" padding-top="15px" padding-right="5px" padding-bottom="20px" padding-left="5px">
+          To celebrate this release, enjoy <span style="color:red;">25%</span> off your next order!
+        </mj-text>
+        <mj-button href="https://www.vicfirth.com" background-color="red" color="white" padding-top="5px" border-radius="5px">
+          Get 25% off now
+        </mj-button>
+        <mj-text font-size="12px" padding-bottom="10px" text-decoration="underline">
+          Or Use Code: "T3RRA" At Checkout
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Footer Section -->
+    </mj-raw>
+    <mj-section background-color="#F6F6EF" padding-bottom="20px">
+      <mj-column width="400px" padding-top="15px">
+        <mj-text>
+          <img src="https://i.postimg.cc/TYSSY9hf/fb.png" width="30px" style="padding:5px;">
+          <img src="https://i.postimg.cc/0yw46wJm/insta.png" width="30px" style="padding:5px;">
+          <img src="https://i.postimg.cc/7LrWSZgR/tw.png" width="30px" style="padding:5px;">
+          <img src="https://i.postimg.cc/W4mf8c81/yt.png" width="30px" style="padding:5px;">
+        </mj-text>
+        <mj-text color="#000000" font-family="Helvetica" line-height="1.45" font-size="10px">
+          © 2023 ALL RIGHTS RESERVED. THE AVEDIS ZILDJIAN COMPANY INC.
+        </mj-text>
+        <mj-text color="#000000" font-family="Helvetica" line-height="18px" font-size="10px">
+          <a href="https://www.google.com" style="color:#000000;">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+
+
+
+
+
+</mjml>
